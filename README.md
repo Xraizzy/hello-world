@@ -1,2 +1,3 @@
 # hello-world
-storage 
+
+Debug.Log("test")
